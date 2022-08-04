@@ -1,0 +1,20 @@
+* {
+	padding: 0 px;
+	margin: 0 px;
+}
+
+.contact-form {
+	font-size: 25 px;
+	background-color: black;
+	width: 50 vw;
+	text-color:  whith;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+}
+
+.options {
+	font-family: 'Lobster', cursive;
+	color: grey;
+	font-size: 1 em;
+}
